@@ -1,4 +1,4 @@
-# 💼 sistemaVECI_chunkies
+## 💼 sistemaVECI_chunkies
 Sistema de gestión administrativa y contable para el negocio de galletas Chunkies.  
 Desarrollado en T-SQL para ser ejecutado en **Azure SQL Database** o **SQL Server**.
 ---
