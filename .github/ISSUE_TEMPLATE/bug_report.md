@@ -14,7 +14,7 @@ assignees: ""
 
 ### Descripción
 
-Describe claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
+Cuentame claramente el error que has encontrado. Incluye detalles sobre cómo se presenta el problema.
 
 ### Pasos para reproducir
 
