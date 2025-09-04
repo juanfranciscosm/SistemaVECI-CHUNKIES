@@ -5,8 +5,6 @@
 
 -- Desactivar comprobación de claves externas temporalmente
 ALTER DATABASE CURRENT SET ANSI_NULLS ON;
--- eliminado en github
--- una actualizacion más
 ALTER DATABASE CURRENT SET QUOTED_IDENTIFIER ON;
 
 
